@@ -79,8 +79,8 @@ The design was verified using simulation testbenches covering:
 ---
 
 ## Tools Used
-- Verilog / SystemVerilog
-- QuestaSim
+- Verilog 
+- Modelsim
 
 ---
 
