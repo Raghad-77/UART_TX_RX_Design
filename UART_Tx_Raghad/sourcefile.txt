@@ -1,0 +1,7 @@
+parity.v
+run.do
+serializer.v
+TX_FSM.v
+Tx_mux.v
+UART_TX_TOP.v
+UART_TX_TOP_tb.v
